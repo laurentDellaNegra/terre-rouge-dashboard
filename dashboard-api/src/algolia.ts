@@ -24,10 +24,11 @@ const convertToRecords = (products: any) =>
     }
   })
 
-const saveRecords = (records: any) =>
-  index.saveObjects(records, {
+const saveRecords = (records: any) => {
+  return index.replaceAllObjects(records, {
     autoGenerateObjectIDIfNotExist: true,
   })
+}
 
 const saveProducts = async (products: any) => {
   const algoliaRecords = convertToRecords(products)

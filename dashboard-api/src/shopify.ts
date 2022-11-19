@@ -11,7 +11,7 @@ const getProducts = async () => {
     url,
     `
     {
-      products(first: 100) {
+      products(first: 199) {
         edges {
           node {
             id
@@ -20,6 +20,7 @@ const getProducts = async () => {
             productType
             tags
             description
+            status
             priceRange {
               minVariantPrice {
                 amount
@@ -48,7 +49,8 @@ const getProducts = async () => {
     }
   )
   const { products } = response.data
-  return products.edges
+  // We filter the only ACTIVE products
+  return products.edges.filter((p: any) => p.node.status === 'ACTIVE')
 }
 
 export default { getProducts }
