@@ -11,7 +11,7 @@ const getProducts = async () => {
     url,
     `
     {
-      products(first: 199) {
+      products(first: 80) {
         edges {
           node {
             id
@@ -35,6 +35,13 @@ const getProducts = async () => {
                 }
               }
             }
+            collections (first: 4) {
+              edges {
+                node {
+                  handle
+                }
+              }
+            }
           }
         }
       }
@@ -48,6 +55,8 @@ const getProducts = async () => {
       },
     }
   )
+  console.log('response', response)
+
   const { products } = response.data
   // We filter the only ACTIVE products
   return products.edges.filter((p: any) => p.node.status === 'ACTIVE')

@@ -63,7 +63,7 @@ export default function Deployment({ user, status }: DeploymentProps) {
                     <div>
                       <p className="text-sm text-gray-500">
                         Exporting products from&nbsp;
-                        <a href="#" className="font-medium text-gray-900">
+                        <a href="https://www.shopify.com/" className="font-medium text-gray-900">
                           Shopify
                         </a>
                       </p>
@@ -111,7 +111,7 @@ export default function Deployment({ user, status }: DeploymentProps) {
                     <div>
                       <p className="text-sm text-gray-500">
                         Importing products on&nbsp;
-                        <a href="#" className="font-medium text-gray-900">
+                        <a href="https://www.algolia.com/" className="font-medium text-gray-900">
                           Algolia
                         </a>
                       </p>
@@ -154,7 +154,7 @@ export default function Deployment({ user, status }: DeploymentProps) {
                     <div>
                       <p className="text-sm text-gray-500">
                         Deploying Terre Rouge on&nbsp;
-                        <a href="#" className="font-medium text-gray-900">
+                        <a href="https://vercel.com/" className="font-medium text-gray-900">
                           Vercel
                         </a>
                       </p>
