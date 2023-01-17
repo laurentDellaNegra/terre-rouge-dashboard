@@ -22,6 +22,7 @@ const convertToRecords = (products: any) =>
       currency: product.priceRange.minVariantPrice.currencyCode,
       image: product.images.edges[0]?.node?.transformedSrc,
       collections: product.collections.edges.map((edge: any) => edge.node.handle),
+      variants: product.variants.edges.map((edge: any) => edge.node.selectedOptions),
     }
   })
 
