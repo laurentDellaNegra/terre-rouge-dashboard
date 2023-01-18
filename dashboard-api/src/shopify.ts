@@ -69,7 +69,7 @@ const getProducts = async () => {
   //     },
   //   }
   // )
-  console.log('response', response)
+  // console.log('response', response)
 
   const { products } = response.data
   // We filter the only ACTIVE products

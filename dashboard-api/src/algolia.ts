@@ -18,11 +18,15 @@ const convertToRecords = (products: any) =>
       category: product.productType,
       tags: product.tags,
       handle: product.handle,
-      price: product.priceRange.minVariantPrice.amount / 100, // Bug: API send in centimes
+      price: product.priceRange.minVariantPrice.amount,
+      // price: product.priceRange.minVariantPrice.amount / 100, // Bug: API send in centimes
       currency: product.priceRange.minVariantPrice.currencyCode,
       image: product.images.edges[0]?.node?.transformedSrc,
       collections: product.collections.edges.map((edge: any) => edge.node.handle),
-      variants: product.variants.edges.map((edge: any) => edge.node.selectedOptions),
+      variants: product.variants.edges
+        .flatMap((e: any) => e.node.selectedOptions)
+        .filter((v: any) => v.name !== 'Title'),
+      // .map((edge: any) => edge.node.selectedOptions)
     }
   })
 
@@ -34,6 +38,7 @@ const saveRecords = (records: any) => {
 
 const saveProducts = async (products: any) => {
   const algoliaRecords = convertToRecords(products)
+  console.log(products[78])
   const { objectIDs } = await saveRecords(algoliaRecords)
   return objectIDs
 }
