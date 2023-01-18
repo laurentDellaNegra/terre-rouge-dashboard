@@ -2140,11 +2140,6 @@
                             "edges": [
                                 {
                                     "node": {
-                                        "handle": "frontpage"
-                                    }
-                                },
-                                {
-                                    "node": {
                                         "handle": "condiments"
                                     }
                                 }
@@ -2519,6 +2514,11 @@
                         },
                         "collections": {
                             "edges": [
+                                {
+                                    "node": {
+                                        "handle": "frontpage"
+                                    }
+                                },
                                 {
                                     "node": {
                                         "handle": "condiments"
@@ -2961,8 +2961,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion Gojiberry",
-                                                "value": "en vrac"
+                                                "name": "Conditionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -2971,8 +2971,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion Gojiberry",
-                                                "value": "en infusette"
+                                                "name": "Conditionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -3024,8 +3024,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion Citramono",
-                                                "value": "En vrac"
+                                                "name": "Conditionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3034,8 +3034,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion Citramono",
-                                                "value": "En infusette"
+                                                "name": "Conditionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -3059,7 +3059,7 @@
                         "description": "Infusion disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produits Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "8.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3077,11 +3077,6 @@
                             "edges": [
                                 {
                                     "node": {
-                                        "handle": "frontpage"
-                                    }
-                                },
-                                {
-                                    "node": {
                                         "handle": "condiments"
                                     }
                                 }
@@ -3093,8 +3088,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion Tropicoco",
-                                                "value": "en vrac"
+                                                "name": "Conditionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3103,8 +3098,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion Tropicoco",
-                                                "value": "en infusette"
+                                                "name": "Conditionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -3145,6 +3140,11 @@
                             "edges": [
                                 {
                                     "node": {
+                                        "handle": "frontpage"
+                                    }
+                                },
+                                {
+                                    "node": {
                                         "handle": "condiments"
                                     }
                                 }
@@ -3156,8 +3156,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion  lodtsi",
-                                                "value": "en vrac"
+                                                "name": "Conitionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3166,8 +3166,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion  lodtsi",
-                                                "value": "en infusette"
+                                                "name": "Conitionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -3218,8 +3218,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion pomme cannelle",
-                                                "value": "en vrac"
+                                                "name": "Conditionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3228,8 +3228,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Infusion pomme cannelle",
-                                                "value": "en infusette"
+                                                "name": "Conditionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -3281,8 +3281,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Thé orange",
-                                                "value": "en vrac"
+                                                "name": "Conditionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -3291,8 +3291,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Thé orange",
-                                                "value": "en infusette"
+                                                "name": "Conditionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3344,8 +3344,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Thé ginger lemon",
-                                                "value": "en vrac"
+                                                "name": "Conditionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3354,8 +3354,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Thé ginger lemon",
-                                                "value": "en infusette"
+                                                "name": "Conditionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -3406,8 +3406,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Thé combava",
-                                                "value": "en vrac"
+                                                "name": "Conditionnement",
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3416,8 +3416,8 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Thé combava",
-                                                "value": "en infusette"
+                                                "name": "Conditionnement",
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
