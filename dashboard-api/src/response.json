@@ -613,7 +613,7 @@
                         "description": "La vanille bourbon de Madagascar est originaire du Mexique, elle fût appelée ainsi pour se différencier de la vanille de Tahiti et celle du Mexique. Elle est répandue dans tout l'océan indien, grâce à son climat tropical. La vanille bourbon de Madagascar est prisée pour sa texture crémeuse, et son odeur cacaotée qui parfumera vos desserts et vos envies salés !Grâce à son taux d'humidité entre 30% et 35%, elle est idéale pour concevoir vos desserts et entremets.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.8",
+                                "amount": "4.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1588,7 +1588,7 @@
                             "poivre sauvage",
                             "Poivre sauvage de Voatsiperifery"
                         ],
-                        "description": "Le poivre sauvage de Voatsiperifery est une espèce de poivre endémique de la côte Est de Madagascar et comme son nom l'indique il pousse à l'état sauvage dans les forêts primaires encore préservées de l'île. Le poivre sauvage Voatsiperifery, figure parmi les poivres d'exceptions et unique au monde C'est une épice assez rare du fait de sa méthode de récolte à la main, qui est très méthodique et dangereuse. Ce poivre est très convoité car il pousse sur des lianes de plus de 20 mètres dans les forêts tropicales malgaches pour capturer le maximum de soleil. Il est intense, boisé, très parfumé et goûtu. Conditionnement: Papier kraft biodégradable et compostable en foyer",
+                        "description": "Le poivre sauvage de Voatsiperifery est une espèce de poivre endémique de la côte Est de Madagascar et comme son nom l'indique il pousse à l'état sauvage dans les forêts primaires encore préservées de l'île. Le poivre sauvage Voatsiperifery, figure parmi les poivres d'exceptions et unique au monde C'est une épice assez rare du fait de sa méthode de récolte à la main, qui est très méthodique et dangereuse. Ce poivre est très convoité car il pousse sur des lianes de plus de 20 mètres dans les forêts tropicales malgaches pour capturer le maximum de soleil. Il est intense, boisé, très parfumé et goûtu.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "8.0",
@@ -3557,7 +3557,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 sous verre en deux différents modèles Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
+                        "description": "Lot de 6 sous verre beige et couleur naturelle raphia. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "20.0",
@@ -4189,58 +4189,6 @@
                 },
                 {
                     "node": {
-                        "id": "gid://shopify/Product/7749455020181",
-                        "handle": "copie-de-lot-de-3-paniers-a-fruit-volparasy",
-                        "title": "Lot de 3 paniers à fruit Tsokola",
-                        "productType": "Panier à fruit",
-                        "tags": [
-                            "Panier à frui",
-                            "Raphia"
-                        ],
-                        "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit.",
-                        "priceRange": {
-                            "minVariantPrice": {
-                                "amount": "35.0",
-                                "currencyCode": "EUR"
-                            }
-                        },
-                        "images": {
-                            "edges": [
-                                {
-                                    "node": {
-                                        "transformedSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola_384x384_crop_center@3x.png?v=1669550705",
-                                        "originalSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola.png?v=1669550705"
-                                    }
-                                }
-                            ]
-                        },
-                        "collections": {
-                            "edges": [
-                                {
-                                    "node": {
-                                        "handle": "arts-de-table"
-                                    }
-                                }
-                            ]
-                        },
-                        "variants": {
-                            "edges": [
-                                {
-                                    "node": {
-                                        "selectedOptions": [
-                                            {
-                                                "name": "Title",
-                                                "value": "Default Title"
-                                            }
-                                        ]
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "node": {
                         "id": "gid://shopify/Product/7800954388629",
                         "handle": "bredes-anamamy",
                         "title": "Brèdes Anamamy",
@@ -4275,6 +4223,52 @@
                                     }
                                 }
                             ]
+                        },
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "selectedOptions": [
+                                            {
+                                                "name": "Title",
+                                                "value": "Default Title"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/7801088639125",
+                        "handle": "lot-de-3-paniers-a-fruit-tsokola",
+                        "title": "Lot de 3 paniers à fruit Tsokola",
+                        "productType": "Panier à fruit",
+                        "tags": [
+                            "panier à fruit",
+                            "Raphia"
+                        ],
+                        "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit.",
+                        "priceRange": {
+                            "minVariantPrice": {
+                                "amount": "35.0",
+                                "currencyCode": "EUR"
+                            }
+                        },
+                        "images": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "transformedSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola_384x384_crop_center@3x.jpg?v=1674171177",
+                                        "originalSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola.jpg?v=1674171177"
+                                    }
+                                }
+                            ]
+                        },
+                        "collections": {
+                            "edges": []
                         },
                         "variants": {
                             "edges": [

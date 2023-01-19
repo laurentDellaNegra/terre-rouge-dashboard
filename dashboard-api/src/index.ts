@@ -6,6 +6,8 @@ import shopify from './shopify'
 import vercel from './vercel'
 import jwtCheck from './jwt-checker'
 
+import algoliaData from './response.json'
+
 const app = express()
 
 app.use(jwtCheck)
@@ -16,7 +18,6 @@ app.get('/status', async (req, res) => {
   res.send('Online')
   res.end()
 })
-
 // 1. Load products from Shopify
 app.get('/export-shopify-products', async (req, res) => {
   try {
@@ -36,7 +37,10 @@ app.get('/export-shopify-products', async (req, res) => {
 // 2. Export them into Algolia
 app.post('/import-algolia-products', async (req, res) => {
   try {
-    const products = req.body.products
+    // const products = req.body.products
+    const {
+      products: { edges: products },
+    } = algoliaData.data
     console.log('[ALGOLIA] Importing products...')
     const ids = await algolia.saveProducts(products)
     console.log(`[ALGOLIA] ${ids.length} records created !`)
