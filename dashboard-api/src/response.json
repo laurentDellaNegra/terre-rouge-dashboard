@@ -3784,7 +3784,7 @@
                         "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "35.0",
+                                "amount": "40.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3835,7 +3835,7 @@
                         "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "35.0",
+                                "amount": "40.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3887,7 +3887,7 @@
                         "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "35.0",
+                                "amount": "40.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3938,7 +3938,7 @@
                         "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "35.0",
+                                "amount": "40.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -4253,7 +4253,7 @@
                         "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "35.0",
+                                "amount": "40.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -4261,14 +4261,20 @@
                             "edges": [
                                 {
                                     "node": {
-                                        "transformedSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola_384x384_crop_center@3x.jpg?v=1674171177",
-                                        "originalSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola.jpg?v=1674171177"
+                                        "transformedSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola_384x384_crop_center@3x.png?v=1674172226",
+                                        "originalSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/lot-panier-tsokola.png?v=1674172226"
                                     }
                                 }
                             ]
                         },
                         "collections": {
-                            "edges": []
+                            "edges": [
+                                {
+                                    "node": {
+                                        "handle": "arts-de-table"
+                                    }
+                                }
+                            ]
                         },
                         "variants": {
                             "edges": [
