@@ -38,7 +38,7 @@ const saveRecords = (records: any) => {
 
 const saveProducts = async (products: any) => {
   const algoliaRecords = convertToRecords(products)
-  console.log(products[78])
+  console.log('algoliaRecords', products)
   const { objectIDs } = await saveRecords(algoliaRecords)
   return objectIDs
 }

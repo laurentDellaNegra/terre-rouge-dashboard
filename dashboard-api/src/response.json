@@ -327,7 +327,7 @@
                             "Epice",
                             "Infusion"
                         ],
-                        "description": "La citronnelle de Madagascar ou citronnelle de Java est différente de la verveine citronnelle. Ses tiges ont une odeur parfumante, citronnée très prononcée. Idéale pour mariner vos poissons et crustacés, à souhait dans les soupes exotiques. Conditionnement: En papier kraft biodégradable et compostable en foyer",
+                        "description": "La citronnelle de Madagascar ou citronnelle de Java est différente de la verveine citronnelle. Ses tiges ont une odeur parfumante, citronnée très prononcée. Idéale pour mariner vos poissons et crustacés, à souhait dans les soupes exotiques. Conditionnement: En papier kraft biodégradable et compostable en foyer.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "4.5",
@@ -571,7 +571,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "2"
                                             }
                                         ]
@@ -581,7 +581,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "5"
                                             }
                                         ]
@@ -591,7 +591,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "10"
                                             }
                                         ]
@@ -642,7 +642,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "2"
                                             }
                                         ]
@@ -652,7 +652,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "5"
                                             }
                                         ]
@@ -662,7 +662,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "10"
                                             }
                                         ]
@@ -713,7 +713,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "2"
                                             }
                                         ]
@@ -723,7 +723,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "5"
                                             }
                                         ]
@@ -733,7 +733,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Size",
+                                                "name": "Quantité",
                                                 "value": "10"
                                             }
                                         ]
@@ -858,7 +858,7 @@
                             "pili pili",
                             "piment"
                         ],
-                        "description": "Le pili pili ou le piment oiseau de Madagascar, fait partie des piments qui piquent le plus au monde. Le pili pili est très piquant avec une note fruitée.",
+                        "description": "Le pili pili ou le piment oiseau de Madagascar, fait partie des piments qui piquent le plus au monde. Ce piment est très piquant avec une note fruitée. Il est d'abord cueillli, séché au soleil puis moulu.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -1071,7 +1071,7 @@
                             "legumineuse",
                             "voanjobory"
                         ],
-                        "description": "Le pois de Bambara est un légumineux unique, savoureux et délicieux, riche en protéine et vitamines. Il est très utilisés dans la cuisine malgache. Principalement cultivé à Madagascar. Les pois de Bambara peuvent se consommer dans une soupe, avec la viande.",
+                        "description": "Le pois de Bambara est un légumineux unique, savoureux et délicieux, riche en protéine et vitamines. Il est très utilisés dans la cuisine malgache. Principalement cultivé à Madagascar. Les pois de Bambara peuvent se consommer dans une soupe, avec la viande. Poids net: 150gr",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "4.0",
@@ -1120,7 +1120,7 @@
                         "title": "Maïs ou \"Katsaka\"",
                         "productType": "Brèdes et Produits malagasy",
                         "tags": [],
-                        "description": "La peau de ces graines de maïs a été enlevée, afin de mieux les conserver mais également pour qu'ils soient plus digeste. Le maïs est très présent dans l'alimentation des malagasy, il est principalement cultivé au sud-est de l'île.",
+                        "description": "La peau de ces graines de maïs a été enlevée, afin de mieux les conserver mais également pour qu'ils soient plus digeste. Le maïs est très présent dans l'alimentation des malagasy, il est principalement cultivé au sud-est de l'île. poids net: 150gr",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "4.0",
@@ -1588,7 +1588,7 @@
                             "poivre sauvage",
                             "Poivre sauvage de Voatsiperifery"
                         ],
-                        "description": "Le poivre sauvage de Voatsiperifery est une espèce de poivre endémique de la côte Est de Madagascar et comme son nom l'indique il pousse à l'état sauvage dans les forêts primaires encore préservées de l'île. Le poivre sauvage Voatsiperifery, figure parmi les poivres d'exceptions et unique au monde C'est une épice assez rare du fait de sa méthode de récolte à la main, qui est très méthodique et dangereuse. Ce poivre est très convoité car il pousse sur des lianes de plus de 20 mètres dans les forêts tropicales malgaches pour capturer le maximum de soleil. Il est intense, boisé, très parfumé et goûtu.",
+                        "description": "Le poivre sauvage de Voatsiperifery est une espèce de poivre endémique de la côte Est de Madagascar et comme son nom l'indique il pousse à l'état sauvage dans les forêts primaires encore préservées de l'île. Le poivre sauvage Voatsiperifery, figure parmi les poivres d'exceptions et unique au monde. C'est une épice assez rare du fait de sa méthode de récolte à la main, qui est très méthodique et dangereuse. Ce poivre est très convoité car il pousse sur des lianes de plus de 20 mètres dans les forêts tropicales malgaches pour capturer le maximum de soleil. Il est intense, boisé, très parfumé et goûtu.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "8.0",
@@ -1645,7 +1645,7 @@
                             "cannelle",
                             "Sirop"
                         ],
-                        "description": "C'est un sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave Produit en partenariat avec le Centre Horticole de Tamatave",
+                        "description": "C'est un sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave. Produit en partenariat avec le Centre Horticole de Tamatave.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -1697,7 +1697,7 @@
                             "Passion",
                             "Sirop"
                         ],
-                        "description": "Sirop de grenadelle ou de fruit de la passion 250 ml Sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave Produit en partenariat avec le Centre Technique Horticole de Tamatave",
+                        "description": "Sirop de grenadelle ou de fruit de la passion. Sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave. Produit en partenariat avec le Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -1749,7 +1749,7 @@
                             "Litchi",
                             "Sirop"
                         ],
-                        "description": "Sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave Produit en partenariat avec le Centre Technique Horticole de Tamatave",
+                        "description": "Sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave. Produit en partenariat avec le Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -2066,7 +2066,7 @@
                             "Bredes",
                             "Felika"
                         ],
-                        "description": "Les brèdes ce sont des légumes feuilles, elles font parties de la même famille que les épinard, cressons. A Madagascar on les appelle felika. Ici nous avons un mélange de felika qu'on prépare directement avec le riz en \" soupe\" Produit de Talantalana",
+                        "description": "Les brèdes ce sont des légumes feuilles, elles font parties de la même famille que les épinard, cressons. A Madagascar on les appelle felika. Ici nous avons un mélange de felika qu'on prépare directement avec le riz en \" soupe\". Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "4.0",
@@ -2225,7 +2225,7 @@
                             "Oignon",
                             "Persil"
                         ],
-                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants, Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy Produit de Talantalana",
+                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "7.5",
@@ -2281,7 +2281,7 @@
                             "gingembre",
                             "girofle"
                         ],
-                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants, Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy Produit de Talantalana.",
+                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "7.5",
@@ -2334,7 +2334,7 @@
                             "Oignon",
                             "piment"
                         ],
-                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants, Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy Produit de Talantalana",
+                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "7.5",
@@ -2387,7 +2387,7 @@
                             "ciboulette",
                             "Persil"
                         ],
-                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants, Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy Produit de Talantalana",
+                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "7.5",
@@ -2441,7 +2441,7 @@
                             "Graine de fenouil",
                             "poivre blanc"
                         ],
-                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants, Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy Produit de Talantalana",
+                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "7.5",
@@ -2495,7 +2495,7 @@
                             "poivre",
                             "Thym"
                         ],
-                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants, Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy Produit de Talantalana",
+                        "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "7.5",
@@ -2714,7 +2714,7 @@
                             "Confiture",
                             "Tamarin"
                         ],
-                        "description": "Découvrez cette confiture avec des fruits bien mûres qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif Produit de Talantalana",
+                        "description": "Découvrez cette confiture avec des fruits bien mûres qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -2876,7 +2876,7 @@
                             "pili pili",
                             "piment"
                         ],
-                        "description": "Ces pates de piments pili pili sont aromatisées et très fortes en bouche. Le pili pili de Madagascar fait partie des piments qui piquent le plus au monde. Il doit être consommé avec parcimonie. Sans additif, sans conservateur Produits de Talantalana,",
+                        "description": "Ces pates de piments pili pili sont aromatisées et très fortes en bouche. Le pili pili de Madagascar fait partie des piments qui piquent le plus au monde. Il doit être consommé avec parcimonie. Sans additif, sans conservateur. Produits de Talantalana,",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "4.0",
@@ -3059,7 +3059,7 @@
                         "description": "Infusion disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produits Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "8.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3435,7 +3435,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 set de table blanc et beige rond. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis set de table",
+                        "description": "Lot de 6 set de table blanc disponible en deux colories. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis set de table.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "30.0",
@@ -3496,7 +3496,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 sous verre en deux différents modèles Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
+                        "description": "Lot de 6 sous verre en 2 colories . Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "15.0",
@@ -3608,7 +3608,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 sets de table en spirales noir et beige. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sets de table.",
+                        "description": "Lot de 6 sets de table Wind en noir et raphia naturel. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sets de table.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "35.0",
@@ -3659,7 +3659,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 sets de table Wave disponibles en 3 couleurs. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sets de table",
+                        "description": "Lot de 6 sets de table Wave disponibles en 2 colories. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sets de table.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "35.0",
@@ -3720,7 +3720,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 sous verre Wave disponibles en 3 couleurs. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
+                        "description": "Lot de 6 sous verre Wave disponibles en 2 colories. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "20.0",
@@ -3832,7 +3832,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit",
+                        "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit .",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "40.0",
@@ -3884,7 +3884,7 @@
                             "Panier à frui",
                             "Raphia"
                         ],
-                        "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit",
+                        "description": "Lot de 3 paniers à fruit ou décorations murales. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis paniers à fruit.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "40.0",
@@ -3991,7 +3991,7 @@
                             "poivre",
                             "poivre noir"
                         ],
-                        "description": "Le mélange 5 épices est originaire de Chine, celui de Terre Rouge est inspiré des épices de Madagascar en incluent les baies roses. Le mélange des 5 épices de Terre Rouge a une saveur unique avec ce mélange qui sort de l'ordinaire. Il est en réalité un mélange de plusieurs épices bien équilibre où chacune apporte son saveur Il est très parfumé, à la fois chaud et doux, mais non piquant.",
+                        "description": "Le mélange 5 épices est originaire de Chine, celui de Terre Rouge est inspiré des épices de Madagascar en incluent les baies roses. Le mélange des 5 épices de Terre Rouge a une saveur unique avec ce mélange qui sort de l'ordinaire. Il est en réalité un mélange de plusieurs épices bien équilibre où chacune apporte son saveur. Il est très parfumé, à la fois chaud et doux, mais non piquant.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "4.0",
@@ -4043,7 +4043,7 @@
                             "pili pili",
                             "piment"
                         ],
-                        "description": "Le pili pili ou le piment oiseau de Madagascar, fait partie des piments qui piquent le plus au monde. Le pili pili est très piquant avec une note fruitée.",
+                        "description": "Le pili pili ou le piment oiseau de Madagascar, fait partie des piments qui piquent le plus au monde. Ce piment est très piquant avec une note fruitée.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -4094,7 +4094,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 sets de table de couleur naturel Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sets de table;",
+                        "description": "Lot de 6 sets de table de couleur naturel. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base raphia et peinte avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sets de table.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "35.0",
@@ -4145,7 +4145,7 @@
                         "tags": [
                             "Raphia"
                         ],
-                        "description": "Lot de 6 sous verre Fasika, Couleur Raphia Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
+                        "description": "Lot de 6 sous verre Fasika en couleur naturelle raphia. Fabriqué et tissé à la main par nos artisans malgaches à Antananarivo, fait à base de raphia et peint avec des couleurs naturelles à base de plante. Le tissage du raphia est l'un des savoirs faire malagasy qui perpétue de génération en génération, le raphia est un élément qu'utilise les malagasy dans la vie courante. Sublimez vos tables et vos évènements à travers ces jolis sous verre.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "20.0",
