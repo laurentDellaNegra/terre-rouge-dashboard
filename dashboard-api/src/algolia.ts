@@ -18,7 +18,7 @@ const convertToRecords = (products: any) =>
       category: product.productType,
       tags: product.tags,
       handle: product.handle,
-      price: product.priceRange.minVariantPrice.amount,
+      price: Number(product.priceRange.minVariantPrice.amount),
       // price: product.priceRange.minVariantPrice.amount / 100, // Bug: API send in centimes
       currency: product.priceRange.minVariantPrice.currencyCode,
       image: product.images.edges[0]?.node?.transformedSrc,

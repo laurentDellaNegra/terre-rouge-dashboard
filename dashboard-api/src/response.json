@@ -571,7 +571,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "2"
                                             }
                                         ]
@@ -581,7 +581,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "5"
                                             }
                                         ]
@@ -591,7 +591,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "10"
                                             }
                                         ]
@@ -642,7 +642,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "2"
                                             }
                                         ]
@@ -652,7 +652,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "5"
                                             }
                                         ]
@@ -662,7 +662,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "10"
                                             }
                                         ]
@@ -713,7 +713,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "2"
                                             }
                                         ]
@@ -723,7 +723,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "5"
                                             }
                                         ]
@@ -733,7 +733,7 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Quantité",
+                                                "name": "Nombre de gousses par tube",
                                                 "value": "10"
                                             }
                                         ]
@@ -1064,7 +1064,7 @@
                     "node": {
                         "id": "gid://shopify/Product/6626161393813",
                         "handle": "poids-de-bambara-ou-voanjobory",
-                        "title": "Poids de bambara ou Voanjobory",
+                        "title": "Pois de bambara ou Voanjobory",
                         "productType": "Brèdes et Produits malagasy",
                         "tags": [
                             "bambara",
@@ -1074,7 +1074,7 @@
                         "description": "Le pois de Bambara est un légumineux unique, savoureux et délicieux, riche en protéine et vitamines. Il est très utilisés dans la cuisine malgache. Principalement cultivé à Madagascar. Les pois de Bambara peuvent se consommer dans une soupe, avec la viande. Poids net: 150gr",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1123,7 +1123,7 @@
                         "description": "La peau de ces graines de maïs a été enlevée, afin de mieux les conserver mais également pour qu'ils soient plus digeste. Le maïs est très présent dans l'alimentation des malagasy, il est principalement cultivé au sud-est de l'île. poids net: 150gr",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1278,7 +1278,7 @@
                         "description": "Une tablette noire aux riches notes profondes de cacao, audacieuses et contenues. Le craquant du grué apporte une touche rustique et robuste qui se marie agréablement aux notes de fruits rouges du chocolat. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.3",
+                                "amount": "4.24",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1330,7 +1330,7 @@
                         "description": "Un chocolat au lait onctueux et sublimement exotique avec ses notes de vanille et de lait de coco. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.3",
+                                "amount": "4.24",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1383,7 +1383,7 @@
                         "description": "L’intensité de la baie rose combinée aux arômes de citronnelle du combava se marie aux arômes de fruits rouges du chocolat créant ainsi un goût innovant. L’acidité si caractéristique de la fève Malgache associée à celle du combava vous plongera dans une délicieuse sensation de fraîcheur. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.3",
+                                "amount": "4.24",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1434,7 +1434,7 @@
                         "description": "Ce chocolat ne vous laissera pas indemne avec ses profonds arômes de cacao et sa finition en bouche clairement acidulé. Fort en cacao et fort en émotion. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.3",
+                                "amount": "4.24",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3282,7 +3282,7 @@
                                         "selectedOptions": [
                                             {
                                                 "name": "Conditionnement",
-                                                "value": "Infusette"
+                                                "value": "Vrac"
                                             }
                                         ]
                                     }
@@ -3292,7 +3292,7 @@
                                         "selectedOptions": [
                                             {
                                                 "name": "Conditionnement",
-                                                "value": "Vrac"
+                                                "value": "Infusette"
                                             }
                                         ]
                                     }
@@ -4209,8 +4209,8 @@
                             "edges": [
                                 {
                                     "node": {
-                                        "transformedSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/bredes-anamamy_384x384_crop_center@3x.jpg?v=1674119419",
-                                        "originalSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/bredes-anamamy.jpg?v=1674119419"
+                                        "transformedSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/bredes-anamamy_384x384_crop_center@3x.png?v=1674332600",
+                                        "originalSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/bredes-anamamy.png?v=1674332600"
                                     }
                                 }
                             ]
