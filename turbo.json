@@ -3,6 +3,16 @@
     "pipeline": {
         "dev": {
             "cache": false
+        },
+        "build": {
+            "dependsOn": [
+                "^build"
+            ]
+        },
+        "start": {
+            "dependsOn": [
+                "build"
+            ]
         }
     }
 }
