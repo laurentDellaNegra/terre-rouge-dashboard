@@ -9,7 +9,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "prestart": "yarn run build",
     "start": "next start",
     "lint": "next lint"
   },
