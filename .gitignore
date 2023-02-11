@@ -1,6 +1,7 @@
 .turbo
 
 .env
+.env.prod
 dist
 node_modules
 
