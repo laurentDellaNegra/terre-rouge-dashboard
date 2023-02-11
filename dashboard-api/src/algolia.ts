@@ -20,14 +20,12 @@ const convertToRecords = (products: any) =>
       handle: product.handle,
       compareAtPrice: Number(product.compareAtPriceRange.minVariantPrice.amount),
       price: Number(product.priceRange.minVariantPrice.amount),
-      // price: product.priceRange.minVariantPrice.amount / 100, // Bug: API send in centimes
       currency: product.priceRange.minVariantPrice.currencyCode,
       image: product.images.edges[0]?.node?.transformedSrc,
       collections: product.collections.edges.map((edge: any) => edge.node.handle),
       variants: product.variants.edges
         .flatMap((e: any) => e.node.selectedOptions)
         .filter((v: any) => v.name !== 'Title'),
-      // .map((edge: any) => edge.node.selectedOptions)
     }
   })
 
@@ -39,7 +37,6 @@ const saveRecords = (records: any) => {
 
 const saveProducts = async (products: any) => {
   const algoliaRecords = convertToRecords(products)
-  console.log('algoliaRecords', products)
   const { objectIDs } = await saveRecords(algoliaRecords)
   return objectIDs
 }

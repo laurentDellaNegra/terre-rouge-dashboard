@@ -4,8 +4,6 @@ export default withApiAuthRequired(async function deploy(req, res) {
   try {
     const { accessToken } = await getAccessToken(req, res)
 
-    console.log(req.body)
-
     const response = await fetch('http://localhost:6000/import-algolia-products', {
       headers: {
         Authorization: `Bearer ${accessToken}`,
