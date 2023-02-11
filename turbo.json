@@ -9,10 +9,6 @@
                 "^build"
             ]
         },
-        "start": {
-            "dependsOn": [
-                "build"
-            ]
-        }
+        "start": {}
     }
 }
