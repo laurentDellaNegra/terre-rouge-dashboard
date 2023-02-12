@@ -190,7 +190,7 @@ export default function Layout({ title, user, status, children, fluid = false }:
               </div>
             </div>
             <div className="ml-4 flex items-center md:ml-6">
-              <div className="text-sm text-gray-400">{user.name}</div>
+              <div className="hidden sm:block text-sm text-gray-400">{user.name}</div>
 
               {/* Profile dropdown */}
               <Menu as="div" className="relative ml-3">
