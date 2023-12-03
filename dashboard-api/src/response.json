@@ -16,13 +16,13 @@
                         "description": "Le curcuma, on l’appelle également le safran des Indes, très léger et subtil, on l‘utilise quasiment dans toutes les cuisines de l’océan Indien. Il est utilisé pour adoucir les currys . Le curcuma de Madagascar a une note d’agrume et est moins terreux. Il a une saveur douce, chaude mais non piquante.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -54,7 +54,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -75,7 +76,7 @@
                         "description": "Le gingembre est originaire du sud de l’Inde et de la Chine. Cette racine a su trouver sa place au cœur de Madagascar. Il fait partie de la famille des Zingiberacées au même titre que le curcuma. Il est frais, poivré et citronné.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -113,7 +114,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -132,13 +134,13 @@
                         "description": "La cannelle de Madagascar est aussi surnommée la cannelle gourmet, on l’appelle également la vraie cannelle ou cannelle Ceylan. Elle est originaire de l’Indonésie. La cannelle de Madagascar est répandue pour son côté poivré, elle saura rehausser vos desserts ainsi que vos plats salés. Son goût se rapproche de la cannelle ceylan cultivée en Indonésie. *La coumarine peut être toxique pour le foie, car elle possède des propriétés hépatotoxiques. Pour une utilisation journalière, il faut favoriser la cannelle Ceylan de Madagascar.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.5",
+                                "amount": "2.25",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -170,7 +172,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -190,13 +193,13 @@
                         "description": "Les baies roses sont aussi appelées le poivre des bourbons. Les baies roses sont originaires du Brésil, et furent adoptées par l'île de Madagascar au XIXe siècle. Les baies roses ne sont pas un vrai poivre car elles ne poussent pas en liane. Cette épice est non piquante mais très aromatisée. Elle a une note tout d'abord sucrée et ensuite vient la saveur poivrée.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.5",
+                                "amount": "2.25",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -228,7 +231,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -286,7 +290,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -307,13 +312,13 @@
                         "description": "Le cumin est une épice originaire du Moyen Orient, elle est utilisée pour préparer plusieurs épices comme le curry, le garam masala ou le chili. Elle peut se consommer en poudre dans les plats mais également en grain en infusion. A noter: cette épice est déconseillée aux femmes enceintes.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "0.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -345,7 +350,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -366,13 +372,13 @@
                         "description": "La citronnelle de Madagascar ou citronnelle de Java est différente de la verveine citronnelle. Ses tiges ont une odeur parfumante, citronnée très prononcée. Idéale pour mariner vos poissons et crustacés, à souhait dans les soupes exotiques. Conditionnement: En papier kraft biodégradable et compostable en foyer.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.5",
+                                "amount": "2.25",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -404,7 +410,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -426,7 +433,7 @@
                         "description": "Le curry est une épice originaire de l'Inde. Comme Madagascar est le carrefour entre l'Asie et l'Afrique, il en a donc hérité. Cette épice est le résultat du mélange de plusieurs épices dont le curcuma, la cannelle, le cumin, la noix de muscade, le poivre noir, le poivre sauvage de Voatsiperifery, l'ail, le fenugrec, la coriandre, le gingembre.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -464,7 +471,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -487,7 +495,7 @@
                         "description": "Le garam masala ou massalé, un héritage savoureux laissé par les indiens . Le mot Garam veut dire chaud en hindi. Il est le résultat d'un mélange de plusieurs épices délicatement torréfiées.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -525,7 +533,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -545,13 +554,13 @@
                         "description": "La cannelle de Madagascar est aussi surnommée la cannelle gourmet, on l’appelle également la vraie cannelle ou cannelle Ceylan. Elle est originaire de l’Indonésie. la cannelle de Madagascar est répandue pour son côté poivré, elle saura rehausser vos desserts ainsi que vos plats salés. Son goût se rapproche de la cannelle ceylan cultivée en Indonésie.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -583,7 +592,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -602,13 +612,13 @@
                         "description": "La vanille bourbon de Madagascar est originaire du Mexique, elle fût appelée ainsi pour se différencier de la vanille de Tahiti et celle du Mexique. Elle est répandue dans tout l'océan indien, grâce à son climat tropical. La vanille bourbon de Madagascar est prisée pour sa texture crémeuse, et son odeur cacaotée qui parfumera vos desserts et vos envies salés !Grâce à son taux d'humidité entre 30% et 35%, elle est idéale pour concevoir vos desserts et entremets.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -637,30 +647,11 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "2"
+                                                "name": "Title",
+                                                "value": "Default Title"
                                             }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "node": {
-                                        "selectedOptions": [
-                                            {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "5"
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "node": {
-                                        "selectedOptions": [
-                                            {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "10"
-                                            }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -679,13 +670,13 @@
                         "description": "La vanille bourbon de Madagascar est originaire du Mexique, elle fût appelée ainsi pour se différencier de la vanille de Tahiti et celle du Mexique. Elle est répandue dans tout l'océan indien, grâce à son climat tropical. La vanille bourbon de Madagascar est prisée pour sa texture crémeuse, et son odeur cacaotée qui parfumera vos desserts et vos envies salés !Grâce à son taux d'humidité entre 30% et 35%, elle est idéale pour concevoir vos desserts et entremets.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.5",
+                                "amount": "1.13",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "2.25",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -714,30 +705,11 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "2"
+                                                "name": "Title",
+                                                "value": "Default Title"
                                             }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "node": {
-                                        "selectedOptions": [
-                                            {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "5"
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "node": {
-                                        "selectedOptions": [
-                                            {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "10"
-                                            }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -756,13 +728,13 @@
                         "description": "La vanille bourbon de Madagascar est originaire du Mexique, elle fût appelée ainsi pour se différencier de la vanille de Tahiti et celle du Mexique. Elle est répandue dans tout l'océan indien, grâce à son climat tropical. La vanille bourbon de Madagascar est prisée pour sa texture crémeuse, et son odeur cacaotée qui parfumera vos desserts et vos envies salés !Grâce à son taux d'humidité entre 30% et 35%, elle est idéale pour concevoir vos desserts et entremets.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "1.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -791,30 +763,11 @@
                                     "node": {
                                         "selectedOptions": [
                                             {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "2"
+                                                "name": "Title",
+                                                "value": "Default Title"
                                             }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "node": {
-                                        "selectedOptions": [
-                                            {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "5"
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "node": {
-                                        "selectedOptions": [
-                                            {
-                                                "name": "Nombre de gousses par tube",
-                                                "value": "10"
-                                            }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -873,7 +826,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -893,13 +847,13 @@
                         "description": "Le combava est originaire de l’Indonésie et fut introduit dans l’océan indien XIXème siècle. Il fait partie de la famille des agrumes, dont l'apparence est proche du citron vert et du fruit du bergamotier. Le combava a une saveur de citronnelle, gingembre et coriandre .",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -931,7 +885,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -951,13 +906,13 @@
                         "description": "Le pili pili ou le piment oiseau de Madagascar, fait partie des piments qui piquent le plus au monde. Ce piment est très piquant avec une note fruitée. Il est d'abord cueillli, séché au soleil puis moulu.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "2.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -989,7 +944,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1049,7 +1005,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -1069,13 +1026,13 @@
                         "description": "Contrairement à son cousin “ poivre sauvage de Voatsiperifery” ce poivre est cultivé dans les terres malgaches et non dans les forêts tropicales. Ce poivre est cueilli vert et ensuite séché pour qu’il devienne noir. C’est ainsi qu’il peut préserver son goût unique. Ce poivre est moins piquant et très fruité. Il peut s’utiliser en cuisson ou à la fin.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1107,7 +1064,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1167,7 +1125,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -1188,13 +1147,13 @@
                         "description": "Le pois de Bambara est un légumineux unique, savoureux et délicieux, riche en protéine et vitamines. Il est très utilisés dans la cuisine malgache. Principalement cultivé à Madagascar. Les pois de Bambara peuvent se consommer dans une soupe, avec la viande. Poids net: 150gr",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1226,7 +1185,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1243,13 +1203,13 @@
                         "description": "La peau de ces graines de maïs a été enlevée, afin de mieux les conserver mais également pour qu'ils soient plus digeste. Le maïs est très présent dans l'alimentation des malagasy, il est principalement cultivé au sud-est de l'île. poids net: 150gr",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1281,7 +1241,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1301,13 +1262,13 @@
                         "description": "Anamadinika ou bidens pilosa sont des légumes feuilles, elles font parties de la même famille que les épinard, cressons. A Madagascar on les appelle felika. Ce sont des mets quotidiens des malgaches, elles font partie du patrimoine culinaire de Madagascar.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1339,7 +1300,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1359,13 +1321,13 @@
                         "description": "Les brèdes felimorongo ou Moringa Oleifera sont concentrées en fer, vitamine C et A. Elles sont riches en potassium, en calcium et très pauvre en calories mais offrent une bonne proportion de fibres alimentaires. Dans plusieurs pays, le moringa est utilisé pour traiter l’anémie, l’anxiété, l’asthme, l’hypertension, le psoriasis, les douleurs articulaires, les troubles thyroïdiens, les maux de tête, de gorge, les calculs rénaux.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.0",
+                                "amount": "2.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1397,7 +1359,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1416,7 +1379,7 @@
                         "description": "Une tablette noire aux riches notes profondes de cacao, audacieuses et contenues. Le craquant du grué apporte une touche rustique et robuste qui se marie agréablement aux notes de fruits rouges du chocolat. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.24",
+                                "amount": "2.65",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1454,7 +1417,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -1474,7 +1438,7 @@
                         "description": "Un chocolat au lait onctueux et sublimement exotique avec ses notes de vanille et de lait de coco. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.24",
+                                "amount": "2.65",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1512,7 +1476,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -1533,7 +1498,7 @@
                         "description": "L’intensité de la baie rose combinée aux arômes de citronnelle du combava se marie aux arômes de fruits rouges du chocolat créant ainsi un goût innovant. L’acidité si caractéristique de la fève Malgache associée à celle du combava vous plongera dans une délicieuse sensation de fraîcheur. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.24",
+                                "amount": "2.65",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1571,7 +1536,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -1590,7 +1556,7 @@
                         "description": "Ce chocolat ne vous laissera pas indemne avec ses profonds arômes de cacao et sa finition en bouche clairement acidulé. Fort en cacao et fort en émotion. Présence possible de fruits à coque et de protéines de lait.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.24",
+                                "amount": "2.65",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1628,7 +1594,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -1649,13 +1616,13 @@
                         "description": "Les graines de coriandre sont les fruits séchés de la plante homonyme, qui peuvent être utilisées entières ou moulues.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "2.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1687,7 +1654,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1706,13 +1674,13 @@
                         "description": "Le clou de girofle est une épice originaire d'Indonésie, de Madagascar et de Tanzanie. Issu de la plante de giroflier ,appartenant à la famille botanique des Myrtacées et possède de délicates fleurs blanc rosé. Le clou de girofle est dotée d’une morphologie spécifique, qui le rend reconnaissable entre mille. On sèche le bouton floral jusqu’à l’obtention d’une teinte brun-rouge.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1744,7 +1712,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1765,13 +1734,13 @@
                         "description": "Le poivre sauvage de Voatsiperifery est une espèce de poivre endémique de la côte Est de Madagascar et comme son nom l'indique il pousse à l'état sauvage dans les forêts primaires encore préservées de l'île. Le poivre sauvage Voatsiperifery, figure parmi les poivres d'exceptions et unique au monde. C'est une épice assez rare du fait de sa méthode de récolte à la main, qui est très méthodique et dangereuse. Ce poivre est très convoité car il pousse sur des lianes de plus de 20 mètres dans les forêts tropicales malgaches pour capturer le maximum de soleil. Il est intense, boisé, très parfumé et goûtu.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "8.0",
+                                "amount": "4.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "8.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1808,7 +1777,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1828,13 +1798,13 @@
                         "description": "C'est un sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave. Produit en partenariat avec le Centre Horticole de Tamatave.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "2.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1866,7 +1836,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1886,13 +1857,13 @@
                         "description": "Sirop de grenadelle ou de fruit de la passion. Sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave. Produit en partenariat avec le Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "2.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1924,7 +1895,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -1944,13 +1916,13 @@
                         "description": "Sirop naturel fabriqué exclusivement avec des produits des agriculteurs de la Côte Est de Madagascar et plus précisément la région de Tamatave. Produit en partenariat avec le Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "2.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -1982,7 +1954,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2002,13 +1975,13 @@
                         "description": "Le vinaigre de pulpe de fruit se démarque par sa coloration, son goût spécifique. Produit en partenariat avec le Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2040,7 +2013,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2060,13 +2034,13 @@
                         "description": "Le vinaigre de pulpe de fruit se démarque par sa coloration, son goût spécifique. Produit en partenariat avec le Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2098,7 +2072,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2120,13 +2095,13 @@
                         "description": "Confiture de Litchi Passion Produit du Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "2.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2158,7 +2133,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2179,13 +2155,13 @@
                         "description": "Confiture litchi vanille Produit du Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2217,7 +2193,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2238,13 +2215,13 @@
                         "description": "Confiture Ananas vanille Produit issue du Centre Technique Horticole de Tamatave",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.5",
+                                "amount": "1.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2276,7 +2253,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2297,13 +2275,13 @@
                         "description": "Les brèdes ce sont des légumes feuilles, elles font parties de la même famille que les épinard, cressons. A Madagascar on les appelle felika. Ici nous avons un mélange de felika qu'on prépare directement avec le riz en \" soupe\". Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.0",
+                                "amount": "0.8",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2335,7 +2313,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2356,13 +2335,13 @@
                         "description": "Les felika ou les brèdes sont des mets quotidiennes des malgaches, elles font partie du patrimoine culinaire de Madagascar. Les brèdes ce sont des légumes feuilles, elles font parties de la même famille que les épinard, cressons. A Madagascar on les appelle felika. Ici les brèdes sont faites pour accompagner le riz sec. Produit de Talantalana,",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.0",
+                                "amount": "0.8",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2394,7 +2373,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2415,13 +2395,13 @@
                         "description": "Les felika ou les brèdes sont des mets quotidiennes des malgaches, elles font partie du patrimoine culinaire de Madagascar. Les brèdes ce sont des légumes feuilles, elles font parties de la même famille que les épinard, cressons. A Madagascar on les appelle felika. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.0",
+                                "amount": "0.8",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2453,7 +2433,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2474,13 +2455,13 @@
                         "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.5",
+                                "amount": "3.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2512,7 +2493,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2536,13 +2518,13 @@
                         "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.5",
+                                "amount": "3.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2574,7 +2556,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2595,13 +2578,13 @@
                         "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.5",
+                                "amount": "3.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2633,7 +2616,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2654,13 +2638,13 @@
                         "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.5",
+                                "amount": "3.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2692,7 +2676,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2714,13 +2699,13 @@
                         "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.5",
+                                "amount": "3.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2752,7 +2737,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2774,13 +2760,13 @@
                         "description": "La fleur de sel est la fine couche de cristaux blancs qui se forme à la surface des marais salants. Cette fleur de sel provient du site Bio culturel d'Antrema à Katsepy. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "7.5",
+                                "amount": "3.75",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "7.5",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2817,7 +2803,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -2834,7 +2821,7 @@
                             "Citron",
                             "Confiture"
                         ],
-                        "description": "Découvrez cette confiture avec des fruits bien mûres qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif. Produit de Talantalana.",
+                        "description": "Découvrez cette confiture avec des fruits bien mûrs qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif. Produit de Talantalana.",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -2875,7 +2862,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -2893,7 +2881,7 @@
                             "fruit",
                             "Passion"
                         ],
-                        "description": "Découvrez cette confiture avec des fruits bien mûres qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif Produit de Talantalana",
+                        "description": "Découvrez cette confiture avec des fruits bien mûrs qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
                                 "amount": "5.0",
@@ -2939,7 +2927,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -2956,16 +2945,16 @@
                             "Confiture",
                             "fruit"
                         ],
-                        "description": "Découvrez cette confiture avec des fruits bien mûres qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif. Produit de Talantalana,",
+                        "description": "Découvrez cette confiture avec des fruits bien mûrs qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif. Produit de Talantalana,",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "1.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -2997,7 +2986,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3014,16 +3004,16 @@
                             "Confiture",
                             "Tamarin"
                         ],
-                        "description": "Découvrez cette confiture avec des fruits bien mûres qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif. Produit de Talantalana",
+                        "description": "Découvrez cette confiture avec des fruits bien mûrs qui nécessitent très peu de sucre. Elle est sans conservateur, sans arôme artificiel , ni additif. Produit de Talantalana",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "1.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3055,7 +3045,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3114,7 +3105,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -3174,7 +3166,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -3235,7 +3228,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -3256,13 +3250,13 @@
                         "description": "Infusion disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produit de Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3294,7 +3288,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3304,7 +3299,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3325,13 +3321,13 @@
                         "description": "Infusion disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produit de Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3363,7 +3359,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3373,7 +3370,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3433,7 +3431,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 },
                                 {
@@ -3443,7 +3442,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -3464,13 +3464,13 @@
                         "description": "Infusion disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produits Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3507,7 +3507,8 @@
                                                 "name": "Conitionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3517,7 +3518,8 @@
                                                 "name": "Conitionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3537,13 +3539,13 @@
                         "description": "Infusion disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produits Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3575,7 +3577,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3585,7 +3588,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3606,13 +3610,13 @@
                         "description": "Thé disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produits Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3644,7 +3648,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3654,7 +3659,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3675,13 +3681,13 @@
                         "description": "Thé disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produit Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3713,7 +3719,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3723,7 +3730,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3743,13 +3751,13 @@
                         "description": "Thé disponible en vrac et en infusette. Le contenant en vrac équivaut à 20 infusions, le sachet contient 20 infusettes. Produit de Vao Suzette",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "6.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "6.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -3781,7 +3789,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Vrac"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3791,7 +3800,8 @@
                                                 "name": "Conditionnement",
                                                 "value": "Infusette"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3848,7 +3858,8 @@
                                                 "name": "Couleur",
                                                 "value": "Beige et marron claire"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3858,7 +3869,8 @@
                                                 "name": "Couleur",
                                                 "value": "Noir et beige"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3915,7 +3927,8 @@
                                                 "name": "Couleur",
                                                 "value": "Beige et marron claire"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -3925,7 +3938,8 @@
                                                 "name": "Couleur",
                                                 "value": "Noir et beige"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -3982,7 +3996,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4039,7 +4054,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4096,7 +4112,8 @@
                                                 "name": "Couleur",
                                                 "value": "Noir et beige"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -4106,7 +4123,8 @@
                                                 "name": "Couleur",
                                                 "value": "Beige et marron claire"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4163,7 +4181,8 @@
                                                 "name": "Couleur",
                                                 "value": "Noir et beige"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 },
                                 {
@@ -4173,7 +4192,8 @@
                                                 "name": "Couleur",
                                                 "value": "Beige et marron claire"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4230,7 +4250,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -4287,7 +4308,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -4345,7 +4367,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -4402,7 +4425,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]
@@ -4426,13 +4450,13 @@
                         "description": "Le mélange 5 épices est originaire de Chine, celui de Terre Rouge est inspiré des épices de Madagascar en incluent les baies roses. Le mélange des 5 épices de Terre Rouge a une saveur unique avec ce mélange qui sort de l'ordinaire. Il est en réalité un mélange de plusieurs épices bien équilibre où chacune apporte son saveur. Il est très parfumé, à la fois chaud et doux, mais non piquant.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "4.0",
+                                "amount": "2.0",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "4.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -4464,7 +4488,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4484,13 +4509,13 @@
                         "description": "Le pili pili ou le piment oiseau de Madagascar, fait partie des piments qui piquent le plus au monde. Ce piment est très piquant avec une note fruitée.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "5.0",
+                                "amount": "2.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "5.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -4522,7 +4547,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4579,7 +4605,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4636,7 +4663,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4657,13 +4685,13 @@
                         "description": "Anamamy ou brèdes morelles sont des légumes feuilles, elles font parties de la même famille que les épinard, cressons. A Madagascar on les appelle felika. Les felika ou les brèdes sont des mets quotidiens des malgaches, elles font partie du patrimoine culinaire de Madagascar.",
                         "priceRange": {
                             "minVariantPrice": {
-                                "amount": "3.0",
+                                "amount": "1.5",
                                 "currencyCode": "EUR"
                             }
                         },
                         "compareAtPriceRange": {
                             "minVariantPrice": {
-                                "amount": "0.0",
+                                "amount": "3.0",
                                 "currencyCode": "EUR"
                             }
                         },
@@ -4695,7 +4723,8 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": true
                                     }
                                 }
                             ]
@@ -4753,7 +4782,66 @@
                                                 "name": "Title",
                                                 "value": "Default Title"
                                             }
-                                        ]
+                                        ],
+                                        "availableForSale": false
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/Product/8374009495877",
+                        "handle": "chocolat-noix-de-cajou-et-fleur-de-sel-marin",
+                        "title": "Chocolat noir 63% - Noix de cajou et fleur de sel marin",
+                        "productType": "Chocolat",
+                        "tags": [
+                            "chocolat"
+                        ],
+                        "description": "Assouvissez votre envie de saveurs intenses et variées avec notre exquise tablette de chocolat au goût de noix de cajou et de fleur de sel marin. Une seule bouchée remarquablement gourmande et vous allez immédiatement tomber sous le charme de cette délicieuse combinaison unique!",
+                        "priceRange": {
+                            "minVariantPrice": {
+                                "amount": "2.65",
+                                "currencyCode": "EUR"
+                            }
+                        },
+                        "compareAtPriceRange": {
+                            "minVariantPrice": {
+                                "amount": "5.3",
+                                "currencyCode": "EUR"
+                            }
+                        },
+                        "images": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "transformedSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/chocolat-noix-de-cajou-fleur-de-sel-marin_384x384_crop_center@3x.png?v=1682021510",
+                                        "originalSrc": "https://cdn.shopify.com/s/files/1/0491/0134/0821/products/chocolat-noix-de-cajou-fleur-de-sel-marin.png?v=1682021510"
+                                    }
+                                }
+                            ]
+                        },
+                        "collections": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "handle": "condiments"
+                                    }
+                                }
+                            ]
+                        },
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "selectedOptions": [
+                                            {
+                                                "name": "Title",
+                                                "value": "Default Title"
+                                            }
+                                        ],
+                                        "availableForSale": false
                                     }
                                 }
                             ]

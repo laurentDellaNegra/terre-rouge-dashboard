@@ -26,6 +26,8 @@ const convertToRecords = (products: any) =>
       variants: product.variants.edges
         .flatMap((e: any) => e.node.selectedOptions)
         .filter((v: any) => v.name !== 'Title'),
+      // check if every product variant are out of stocks
+      availableForSale: product.variants.edges.every((e: any) => e.node.availableForSale),
     }
   })
 

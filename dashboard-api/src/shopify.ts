@@ -54,6 +54,7 @@ const getProducts = async () => {
                     name
                     value
                   }
+                  availableForSale
                 }
               }
             }
